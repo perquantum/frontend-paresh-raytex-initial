@@ -1,0 +1,132 @@
+*{ 
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.header {
+    background: rgb(110, 61, 124);
+    height: 70px;
+    width: 100%;
+    color: bisque;
+}
+#logo{
+    margin-left: 60px;
+    padding-top: 30px;
+    float: left;
+}
+.navbar {
+    float: right;
+    margin-top: 40px;
+    height: 30px;
+}
+a{
+    font-size: 10px;
+    color: white;
+}
+ul {
+    font-size: medium;
+}
+
+a {
+    padding:0px 15px 0 0px;
+}
+
+img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#intro {
+    padding: 0 200px 0 200px;
+    text-align: center;
+    margin: 10px;
+    color: rgb(143, 138, 138);
+}
+#link{
+    color: blue;
+}
+.footer {
+    margin-bottom: 30px;
+    padding: 30px;
+}
+
+#blog-content{
+    height: 800px;
+    width: 100%;
+    background-color: rgb(228, 226, 226);
+    padding: 50px;
+}
+#article-container{
+    margin-top: 40px;
+    height: 300px;
+    width: 100%;
+}
+.block{
+    width: 23%;
+    height: 400px;
+    float: left;
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
+button{
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 10%;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.blog-img{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 0%;
+}
+.article-bottom{
+    height: 250px;
+    width: 100%;
+    background-color: white;
+}
+.bottom-txt{
+    padding: 30px 10px 10px 10px;
+}
+#contact{
+    height: 300px;
+    width: 100%;
+    background-color: blueviolet;
+    padding: 50px;
+    padding-top: 80px;
+}
+ul{
+    list-style-type: none;
+    color: white;
+    float: left;
+}
+li{
+    margin: 20px;
+}
+
+#contact-right{
+    float: right;
+    width: 40%;
+    height: 100px;
+}
+input{
+    height: 40px;
+    width: 90%;
+    margin-top: 30px;
+    outline: none;
+    padding: 10px;
+}
+#get-deal{
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: white;
+}
+#subscribe{
+    font-size: 15px;
+    color: white;
+}

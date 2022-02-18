@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    position: fixed;
+    height: 70px;
+    width: 100%;
+    background-color: blueviolet;
+}
+#download-app-link{
+    float: right;
+}
+a{
+    float: right;
+}
+#logo{
+    height: 50px;
+    margin: 10px 10px 10px 70px;
+}
+#navigation-bar{
+    float: right;
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
+footer{
+    position: fixed;
+    bottom: 0%;
+    height: 75px;
+    width: 100%;
+    background-color:antiquewhite;
+    border-top: 1px solid black;
+}
+a{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    color:white;
+    text-decoration: none;
+    font-size: 15px;
+}
+a:hover{
+    color: yellow;
+}
+span{
+    position: absolute;
+    right: 30px;
+    top: 5px;
+    text-align: center;
+}
+#copyright{
+    text-align: center;
+}
+#body-bg{
+    width: 100%;
+    height: 500px;
+}

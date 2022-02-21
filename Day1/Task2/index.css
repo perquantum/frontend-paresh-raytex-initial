@@ -6,7 +6,7 @@
 .rect{
     box-sizing: border-box;
     border: 1px solid black;
-    width: 22%;
+    width: 22.5%;
     display: inline-block;
     margin: 1%;
 }
